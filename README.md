@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SIVASANGARANKK/SIVASANGARANKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ## ⚡ Tech Stack  
 - **Languages:** Java, Python, JavaScript  
 - **Frameworks:** React, Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, MySQL
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sgskk4400?theme=dark&font=Baloo%202&ext=contest)
 
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASANGARANKK&show_icons=true&theme=radical)
