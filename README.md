@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Sivasangaran  
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sgskk4400?theme=dark&font=Baloo%202&ext=contest)
+
+![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASANGARANKK&show_icons=true&theme=radical)
+
 🎓 Final-year CSE student at HICET  
 💻 Passionate about **Web Development, MERN stack, and Problem Solving**  
 🚀 Currently working on a **Route Optimized E-commerce Application**  
@@ -30,7 +34,5 @@ Here are some ideas to get you started:
 - **Frameworks:** React, Node.js, Express.js  
 - **Database:** MongoDB, MySQL
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sgskk4400?theme=dark&font=Baloo%202&ext=contest)
 
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASANGARANKK&show_icons=true&theme=radical)
 
