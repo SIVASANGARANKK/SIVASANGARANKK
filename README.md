@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Sivasangaran 👋  
+# Hi, I'm Sivasangaran  
 
 🎓 Final-year CSE student at HICET  
 💻 Passionate about **Web Development, MERN stack, and Problem Solving**  
