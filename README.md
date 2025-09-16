@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Sivasangaran 👋  
+
+🎓 Final-year CSE student at HICET  
+💻 Passionate about **Web Development, MERN stack, and Problem Solving**  
+🚀 Currently working on a **Route Optimized E-commerce Application**  
+
+## 🌐 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/sivasangaran-kk-696950255)  
+- [GitHub](https://github.com/SIVASANGARANKK)  
+- [LeetCode](https://leetcode.com/u/sgskk4400/)  
+
+## ⚡ Tech Stack  
+- **Languages:** Java, Python, JavaScript  
+- **Frameworks:** React, Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+
+![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVASANGARANKK&show_icons=true&theme=radical)
+
